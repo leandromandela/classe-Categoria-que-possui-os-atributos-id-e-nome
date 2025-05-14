@@ -1,0 +1,1 @@
+# classe-Categoria-que-possui-os-atributos-id-e-nome
